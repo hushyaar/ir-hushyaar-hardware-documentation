@@ -1,5 +1,6 @@
 # ir-hushyaar-hardware-documentation
-this repository contains hardware documentation
+
+این ریپوزیتوری مربوط به اسناد و داکیومنت های توسعه و برنامه نویسی دستگاه هوشیار هست.
 
 ## نحوه ی اتصال هوشیار به کامپیوتر برای برنامه نویسی
 
