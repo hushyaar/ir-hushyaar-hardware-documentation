@@ -22,7 +22,7 @@
 1. [Task Managment](/competition/task_managment)
 2. [OTA](/competition/OTA)
 3. [Actuator Managment](/competition/actuator-managment)
-4. [Bluetoot Managmenth](/competition/bluetooth-managment)
+4. [Bluetoot Managment](/competition/bluetooth-managment)
 5. [Camera Managment](/competition/camera-managment)
 6. [Memory Managment](/competition/memory-managment)
 7. [MQTT Managment](/competition/mqtt-managment)
